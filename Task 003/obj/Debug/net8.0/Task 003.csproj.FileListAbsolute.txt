@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\obj\Debug\net8.0\Task 003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\obj\Debug\net8.0\Task 003.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\obj\Debug\net8.0\Task 003.AssemblyInfo.cs
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\obj\Debug\net8.0\Task 003.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\obj\Debug\net8.0\Task 003.sourcelink.json
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\bin\Debug\net8.0\Task 003.exe
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\bin\Debug\net8.0\Task 003.deps.json
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\bin\Debug\net8.0\Task 003.runtimeconfig.json
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\bin\Debug\net8.0\Task 003.dll
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\bin\Debug\net8.0\Task 003.pdb
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\obj\Debug\net8.0\Task 003.dll
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\obj\Debug\net8.0\refint\Task 003.dll
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\obj\Debug\net8.0\Task 003.pdb
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\obj\Debug\net8.0\Task 003.genruntimeconfig.cache
+C:\Users\user\Desktop\Миша\Geek\С sharp\Практика\ДЗ к семинарам\Семинар ДЗ 1\Task\Task 003\obj\Debug\net8.0\ref\Task 003.dll
